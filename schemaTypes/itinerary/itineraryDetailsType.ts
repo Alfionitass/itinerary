@@ -38,7 +38,7 @@ export const itineraryAccomodationType = defineType({
         defineField({
             name: 'title',
             type: 'string',
-            initialValue: 'Accomodation'
+            initialValue: 'Accommodation'
         }),
     ]
 })

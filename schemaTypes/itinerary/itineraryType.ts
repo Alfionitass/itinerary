@@ -19,6 +19,10 @@ export const itineraryType = defineType({
     ],
     fields: [
         defineField({
+            name: 'orderId',
+            type: 'number'
+        }),
+        defineField({
             name: 'itineraryTitle',
             title: 'Title',
             type: 'string'

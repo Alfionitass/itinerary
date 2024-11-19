@@ -1,0 +1,5 @@
+{
+    "path": "../itinerary-nextjs/src/**/*.{ts,tsx,js,jsx}",
+    "schema": "./schema.json",
+    "generates": "../itinerary-nextjs/src/sanity/types.ts"
+  }
